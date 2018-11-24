@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Aller Display';
+    src: url('AllerDisplay.woff2') format('woff2'),
+        url('AllerDisplay.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('ClearSans.woff2') format('woff2'),
+        url('ClearSans.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Clear Sans';
+    src: url('ClearSans-Bold.woff2') format('woff2'),
+        url('ClearSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aller';
+    src: url('Aller-Bold.woff2') format('woff2'),
+        url('Aller-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Aller';
+    src: url('Aller.woff2') format('woff2'),
+        url('Aller.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
