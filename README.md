@@ -1,41 +1,10 @@
+# ![envirogreen](http://www.mlmontheweb.com/assets/img/screenshots/lrg/trak-1.jpg)
+
 # CalorTrak
 
-A simple calorie tracker
+This is a  simple calorie tracker, built using the JavaScript module pattern. In addition uses Localstorage for persisting data. The project is broken up in three controllers an UI controller for controlling the interface, Item controller for state and data, and a Storage controller for localstorage.
 
-### Version
-1.0
+## Built With
 
-## Usage
-
-### Installation
-
-Install the dependencies
-
-```sh
-$ npm install
-```
-
-### Serve
-To serve in the browser  - Runs webpack-dev-server
-
-```sh
-$ npm start
-```
-
-### Build
-Compile and build
-
-```sh
-$ npm run build
-```
-
-## More Info
-
-### Author
-
-Marcus Mckinstry
-[MLMontheWeb](http://www.mlmontheweb.com)
-
-### License
-
-This project is licensed under the MIT License
+* [JavaScript]
+* [BootStrap 4]
